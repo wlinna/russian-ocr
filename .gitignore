@@ -1,0 +1,4 @@
+.vscode
+__pycache__
+Pipfile.lock
+model.pth
