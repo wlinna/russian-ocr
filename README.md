@@ -5,13 +5,15 @@ Russian OCR (an exercise project)
 
 Dependencies are managed with `pipenv`. 
 
-The first you need is a text file of Russian text. This model was trained with this Russian News Corpus, which you can get from [here](https://github.com/maxoodf/russian_news_corpus). You can also download the generated training data from [here]()
+The first you need is a text file of Russian text. This model was trained with this Russian News Corpus, which you can get from [here](https://github.com/maxoodf/russian_news_corpus). You can also download the generated training data from [here](https://drive.google.com/open?id=123MYphBjYxbKRHQS4o3W55I9XA9BsPBr)
 
 The code to compare against Tesseract is located  in `test` directory. To run it, you need to install Tesseract 4 properly. See [this](https://pypi.org/project/tesserocr/) for more information.
 
+A pretrained model can be downloaded from [Google Drive](https://drive.google.com/open?id=1AK815jB_4lxHsy33eabmIFsPRV5DYMQ5)
+
 ## Running
 
-The model can be trained at Google Colaboratory.
+The model can be trained at [Google Colaboratory](https://colab.research.google.com/drive/1RBShz93EMa8gC4lDHrgEjYRWWvLxhn40).
 
 Once you have installed the pipenv dependencies, you can activate the virtualenv with:
 
