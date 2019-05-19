@@ -32,7 +32,7 @@ To generate training data yourself
 To run automated comparison against Tesseract, go to `test` directory, and run the following:
 
 ```
-python test.py --model <path/to/model> <input_directory>
+python compare_tesseract.py -m <path/to/model> <input_directory>
 ```
 
 The content of the directory can be generated with
