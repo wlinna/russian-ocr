@@ -1,6 +1,8 @@
 Russian OCR (an exercise project)
 ============
 
+Status: I haven't touched this project since the course ended. Even though the method seems promising, it currently has a  overfitting problem because the generator generates too simple training data. So if you want to improve upon this, start from improving the training data generator.
+
 ## Installation and dependencies
 
 Dependencies are managed with `pipenv`. 
